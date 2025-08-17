@@ -30,6 +30,7 @@ main{
     font-weight: 700;
     margin-top: 20px;
     color: var(--cor-do-titulo);
+    font-size: 22px;
 }
 
 .card .texto{
